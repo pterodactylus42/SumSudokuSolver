@@ -1,7 +1,7 @@
 README.md
 # Sum sudoku solver
 
-This solver originated from a sudoku with odd rules. 
+This solver originated from a sudoku with odd rules. It uses Backtracking to find a valid solution.
 
 ![MicrosoftTeams-image (1)](https://github.com/pterodactylus42/SumSudokuSolver/assets/76402719/8d433d83-b3c9-45a1-854e-4c22c4202734)
 
